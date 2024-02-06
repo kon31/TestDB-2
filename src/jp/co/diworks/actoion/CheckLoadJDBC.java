@@ -1,3 +1,4 @@
+package jp.co.diworks.actoion;
 
 public class CheckLoadJDBC {
 
